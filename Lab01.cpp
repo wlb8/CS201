@@ -6,9 +6,11 @@ int main() {
 
     float distance, time, velocity;
     
+    // Gets the distance
     cout << "Enter how many miles you are traveling " << endl;
     cin >> distance;
-
+    
+    // Gets the velocity
     cout << "How fast are you traveling in mph? " << endl;
     cin >> velocity;
     
